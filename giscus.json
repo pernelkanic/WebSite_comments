@@ -1,4 +1,4 @@
 {
     
-    "originsRegex": ["http://localhost:1313/blogs/*"]
+    "originsRegex": ["http://localhost:1313/"]
   }
