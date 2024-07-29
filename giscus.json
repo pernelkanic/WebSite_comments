@@ -1,4 +1,4 @@
 {
     
-    "originsRegex": ["https://pernelkanic.github.io/blogs/*" , "https://pernelkanic.github.io/projects/*"]
+    "originsRegex": ["https://pernelkanic.github.io/blogs/*" , "https://pernelkanic.github.io/projects/*" , "localhost:1313/*"]
   }
